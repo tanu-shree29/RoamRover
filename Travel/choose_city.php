@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wanderlust-Login</title>
+    <title>RoamRover-Login</title>
     <link rel="stylesheet" href="style.css">
     
 </head>
@@ -13,7 +13,7 @@
         <div class="outer outerb">
             <div class ="topnav">
                 <div class="topdiva">
-                    <h3 class="tophead">Wanderlust</h3>
+                    <h3 class="tophead">RoamRover</h3>
                 </div>
                 <div class="topdivb">
                     <button class="topbuts">
